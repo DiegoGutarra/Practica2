@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReproductorMp3</string>
+    <string name="todo">TODO</string>
+    <string name="btn_siguiente">Ir a reproductor</string>
+    <string name="btn_anterior">Ir a atras</string>
+    <string name="txtTexto">Elija la musica que prefiera escuchar</string>
+</resources>

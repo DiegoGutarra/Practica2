@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.romandanylyk:pageindicatorview:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Android/gradle-7.0.2/caches/transforms-3/b03cbb0148760539b3c931f311fce9d1/transformed/jetified-pageindicatorview-1.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Android/gradle-7.0.2/caches/transforms-3/b03cbb0148760539b3c931f311fce9d1/transformed/jetified-pageindicatorview-1.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Android/gradle-7.0.2/caches/transforms-3/b03cbb0148760539b3c931f311fce9d1/transformed/jetified-pageindicatorview-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Android/gradle-7.0.2/caches/modules-2/files-2.1/com.romandanylyk/pageindicatorview/1.0.2/221f114e2ebd889a4ee65127bed074d8f6c7cdb3/pageindicatorview-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Android/gradle-7.0.2/caches/modules-2/files-2.1/com.romandanylyk/pageindicatorview/1.0.2/9370b72bea8fd21e5ce4bc8650ece463b11464c/pageindicatorview-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
